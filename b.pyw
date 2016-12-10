@@ -34,3 +34,4 @@ def con():
           s.send("\n")
 # start loop
 con()
+#shady
