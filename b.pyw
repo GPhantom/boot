@@ -34,3 +34,5 @@ def con():
           s.send("\n")
 # start loop
 con()
+
+Made a fantastic changes!!!
