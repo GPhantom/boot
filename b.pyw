@@ -34,8 +34,11 @@ def con():
           s.send("\n")
 # start loop
 con()
+
 #shady
 #ahmed
 #samir
 
 1) After mess love.
+
+Made a fantastic changes!!!
